@@ -1,0 +1,28 @@
+
+#gameField{
+  border: solid 0.1em black;
+
+}
+
+.field_block {
+  height: 1em;
+  width: 1em;
+}
+
+.white_field {
+  background-color: #BBCCDD;
+
+}
+
+.snake_body {
+  background-color: #000000;
+  height: 0.9em;
+  width: 0.9em;
+}
+
+.snake_prey {
+  background-color: #FFFFFF;
+  height: 0.9em;
+  width: 0.9em;
+}
+
